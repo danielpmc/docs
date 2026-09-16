@@ -43,4 +43,4 @@ After your pull request is merged, locate the server you wish to proxy. Head on 
 
 Enter your subdomain you wish to use, like: your-subdomain.is-a.dev, select the SSL option and hit link button. 
 
-![](../media/dbh_proxy/DomainsTab-Proxy.png)
+![](../media/dbh_proxy/DoaminsTab-Proxy.png)
