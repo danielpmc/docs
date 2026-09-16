@@ -39,8 +39,8 @@ Create a JSON file inside `domains` directory (`domains/subdomain.json`) with th
 
 After your pull request is merged, locate the server you wish to proxy. Head on over to the domains tab after selecting your server. 
 
-![](../media/dbh_proxy/DoaminsTab.jpg)
+![](../media/dbh_proxy/DoaminsTab.png)
 
 Enter your subdomain you wish to use, like: your-subdomain.is-a.dev, select the SSL option and hit link button. 
 
-![](../media/dbh_proxy/DomainsTab-Proxy.jpg)
+![](../media/dbh_proxy/DomainsTab-Proxy.png)
